@@ -251,3 +251,8 @@ Para reportar problemas o solicitar ayuda:
 2. Verificar la configuración de XAMPP y MySQL
 3. Comprobar los permisos de los archivos
 4. Asegurarse de que todos los servicios estén funcionando correctamente
+
+
+Luego de haber usado todos estos pasos y ejecutar el servidor debe aparecer de la siguiente manara en el terminal 
+![image](https://github.com/user-attachments/assets/f1556143-43c7-4db7-865d-efc48103d2d0)
+
