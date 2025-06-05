@@ -254,5 +254,8 @@ Para reportar problemas o solicitar ayuda:
 
 
 Luego de haber usado todos estos pasos y ejecutar el servidor debe aparecer de la siguiente manara en el terminal 
+
 ![image](https://github.com/user-attachments/assets/f1556143-43c7-4db7-865d-efc48103d2d0)
+![image](https://github.com/user-attachments/assets/b7237038-f997-44b1-b22c-07a49b731dde)
+
 
