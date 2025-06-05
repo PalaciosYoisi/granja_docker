@@ -117,9 +117,9 @@ Configura la conexión a MySQL en XAMPP:
 
 ```php
 $host = 'host.docker.internal';  # Accede al host desde el contenedor
-$dbname = 'granja';
-$user = 'root';
-$pass = 'Yoisi_palacios20';
+$dbname = 'nombre_base_de_datos';
+$user = 'tu_usuario';
+$pass = 'tu_contraseña';
 
 $conn = new mysqli($host, $user, $pass, $dbname);
 ```
@@ -158,13 +158,13 @@ $conn = new mysqli($host, $user, $pass, $dbname);
 2. **Crear la base de datos**
 
    ```sql
-   CREATE DATABASE granja;
+   CREATE DATABASE nombre_de_tu_base_datos;
    ```
 
 3. **Configurar las credenciales en XAMPP**
-   - Usuario: root
-   - Contraseña: Yoisi_palacios20
-   - Base de datos: granja
+   - Usuario: tu_usuario
+   - Contraseña: tu_contraseña
+   - Base de datos: tu_base_de_datos
 
 ## Solución de Problemas
 
